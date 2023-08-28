@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluejx1
 - 👀 I’m interested in ...learning to code to control servo motors
-- 🌱 I’m currently learning ...where to search fro answers
+- 🌱 I’m currently learning ...where to search for answers
 - 💞️ I’m looking to collaborate on ...being mentored
 - 📫 How to reach me ...jmmach1@hotmail.com
 
